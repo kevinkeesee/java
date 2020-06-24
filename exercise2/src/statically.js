@@ -14,7 +14,7 @@ class Statically {
 
     static explain() {
         stubborn();
-        console.log(#glue);
+        console.log(this.#glue);
         //write an explanation for how the keyword static behaves differently in javascript vs. java.
     }
 
